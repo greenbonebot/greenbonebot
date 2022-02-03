@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a Bot, helping out the Greenbone team with a lot of tasks!
 
 <!--
 **greenbonebot/greenbonebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
